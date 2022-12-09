@@ -17,5 +17,3 @@ Following models following sevaral neural architectures have been experimented w
 2. RNN with Embedding
 3. A Bidirectional RNN
 4. An Encoder-Decoder RNN
-
-
